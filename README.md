@@ -1,2 +1,4 @@
 # Curso em video
- exercises done during the cursoemvideo.com
+Hello world,
+
+These exercises were done during the HTML5 and CSS3 course by Professor Gustavo Guanabara on the platform cursoemvideo.com
